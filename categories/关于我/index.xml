@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于我 on Vinho Chan 的个人网站</title>
-    <link>http://localhost:1313/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+    <link>https://vinhochan.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
     <description>Recent content in 关于我 on Vinho Chan 的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 05 Mar 2024 22:39:41 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vinhochan.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我</title>
-      <link>http://localhost:1313/me/</link>
+      <link>https://vinhochan.github.io/me/</link>
       <pubDate>Wed, 28 Jun 2023 22:02:42 +0800</pubDate>
-      <guid>http://localhost:1313/me/</guid>
+      <guid>https://vinhochan.github.io/me/</guid>
       <description>陈文豪，建筑师，长居上海，曾经参与多类型项目，包括城市综合体、高端住宅、办公楼、展馆、度假开发项目，并以主创建筑师身份主持或参与多项设计落地</description>
     </item>
   </channel>
